@@ -6,6 +6,8 @@ In an effort to optimize the website for search engines via accesibility standar
 
 Developer discovery: Any 'alt-text' may be added to a style.css by using 'content' in the selector's brackets. For example:
 
+Note: Due to uploading errors on prior repo for this project, a screenshot of prior commits has been added to this project's new repository (./assets/images/LujanSolo github commit record.png) for work tracking purposes.
+
 ```
 .example {
   height: xx;
