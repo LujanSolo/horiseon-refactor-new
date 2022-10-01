@@ -4,9 +4,9 @@
 
 ## Quick Links
 
-[Horiseon Refactored - link to deployed site](https://lujansolo.github.io/horiseon-refactor-project/)
+[Horiseon Refactored - link to deployed site](https://lujansolo.github.io/horiseon-refactor-new/)
 
-[gitHub repository](https://github.com/LujanSolo/horiseon-refactor-project)
+[gitHub repository](https://github.com/LujanSolo/horiseon-refactor-new)
 
 ## Description
 
